@@ -1,0 +1,12 @@
+fig:nice-fig
+tab:nice-tab
+введение
+intro
+literature
+methods
+как-я-стал-таким
+math-example
+applications
+example-one
+example-two
+final-words

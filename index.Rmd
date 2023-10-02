@@ -1,11 +1,11 @@
 --- 
-title: "Это моя кратенькая жизнеописаловка"
-author: "НеХотаббыч"
-date: "`r Sys.Date()`"
+title: "Кратенькая жизнеописаловка"
+author: "НеХотаббыч"  
+date: " `r format(Sys.time(), '%d %b. %Y г.')` "
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-lang: ru
+lang: "ru"
 fontfamily: accanthis
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
